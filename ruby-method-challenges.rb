@@ -77,11 +77,12 @@
 
 # 7. Vowel Count
 
-def countVowels(word)
-	puts word.scan(/[aeouiy]/).count
-end
+# def countVowels(word)
+# 	puts word.scan(/[aeouiy]/).count
+# end
 
-countVowels("stealing")
+# countVowels("stealing")
 
+# 8. Build a Triangle
 
 
